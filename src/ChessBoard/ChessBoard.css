@@ -1,0 +1,29 @@
+.chessBoard{
+    margin: 3rem auto 0;
+}
+
+.chessRow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chessBlock{
+    width: 50px;
+    height:50px;
+    border: 1px solid burlywood;    
+    background-size: 80%;
+    margin:1px;
+}
+
+.correctPosition{
+    background-color: red;
+    background-image: url('../../public/images/portablejim-Chess-tile-Queen-3.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.success{
+    background-color: rgb(37, 173, 67);
+    transition: background-color 1s;
+}
