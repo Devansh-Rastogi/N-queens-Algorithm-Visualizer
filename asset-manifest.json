@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/n-queens-Visualiser/static/css/main.9dc62038.css",
+    "main.js": "/n-queens-Visualiser/static/js/main.ee494239.js",
+    "static/js/787.337bda90.chunk.js": "/n-queens-Visualiser/static/js/787.337bda90.chunk.js",
+    "static/media/portablejim-Chess-tile-Queen-3.svg": "/n-queens-Visualiser/static/media/portablejim-Chess-tile-Queen-3.2d9e26dc11d11ff01182.svg",
+    "index.html": "/n-queens-Visualiser/index.html",
+    "main.9dc62038.css.map": "/n-queens-Visualiser/static/css/main.9dc62038.css.map",
+    "main.ee494239.js.map": "/n-queens-Visualiser/static/js/main.ee494239.js.map",
+    "787.337bda90.chunk.js.map": "/n-queens-Visualiser/static/js/787.337bda90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc62038.css",
+    "static/js/main.ee494239.js"
+  ]
+}
